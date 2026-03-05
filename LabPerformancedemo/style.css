@@ -46,3 +46,11 @@ input[type="text"]{
     padding: 10px;
     margin: 10px;
 }
+*{
+    text-align: left;
+    color: blue;
+}
+ 
+p{
+    color: red;
+}
