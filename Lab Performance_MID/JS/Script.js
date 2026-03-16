@@ -7,3 +7,5 @@ if(quantity < 0) {
     document.getElementById("Quantity").value = 0;
     quantity = 0;
 }
+var total = price * quantity * 30;
+document.getElementById("TotalPrice").value = total;
